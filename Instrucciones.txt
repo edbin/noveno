@@ -1,11 +1,19 @@
-Investigue en internet lo siguientes terminos y expliquelo con sus propias palabras (don't use copy and paste) 
-en un archivo de word con su nombre y apellido.
-Terminos:
-*Programacion orientada a objetos
-*Formularios en access
-*Diseño ux 
-*Combobox (access)
-*Labels (access)
-*Textbox (access)
-*Botones (access)
+Crear una BD llamada usuario
+dos tablas (usuario y departamento)
+
+**TB_usuario
+id_usuario
+nombre
+apellidos
+fecha_nacimiento
+departamento
+ciudad
+identidad
+telefono
+email
+
+**TB_departamento
+id
+nombre
+Departamentos: (Atlántida, Choluteca, Colón, Comayagua, Copán, Cortés, El Paraíso, Francisco Morazán, Gracias a Dios, Intibucá, Islas de la Bahía, La Paz, Lempira, Ocotepeque, Olancho, Santa Bárbara, Valle, Yoro)
 
