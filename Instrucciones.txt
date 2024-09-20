@@ -1,19 +1,28 @@
-Crear una BD llamada usuario
-dos tablas (usuario y departamento)
+Ejercicios en HTML
 
-**TB_usuario
-id_usuario
-nombre
-apellidos
-fecha_nacimiento
-departamento
-ciudad
-identidad
-telefono
-email
+1. Encabezado con <h1> "Acceso al Sistema"
+2. Etiqueta <label> "Usuario"
+3. Textbox:  <input>
+4. Salto de linea <br>
+5. Etiqueta <label> "Clave"
+6. Textbox: <input>
+7. Boton <button> "Acceso"
 
-**TB_departamento
-id
-nombre
-Departamentos: (Atlántida, Choluteca, Colón, Comayagua, Copán, Cortés, El Paraíso, Francisco Morazán, Gracias a Dios, Intibucá, Islas de la Bahía, La Paz, Lempira, Ocotepeque, Olancho, Santa Bárbara, Valle, Yoro)
+
+Ejercicio en CSS
+
+*{
+  backgroung-color: #001F3F;
+  margin: 0;
+  padding: 0;
+  font-family: "Verdana";
+}
+
+h1 {
+  color: #F5F5F5;
+}
+
+label {
+  color: #F5F5F5;
+}
 
