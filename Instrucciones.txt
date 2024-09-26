@@ -1,5 +1,28 @@
-Ejercicios en HTML
+HTML
 
-1. Crear un encabezado h1 "Titulo 1"
-2. Crear 
+<h1>Noveno Grado</h1>
+<h3>Imagen con Efecto</h3>
+<br />
+<img src="" alt="" />
+
+
+CSS
+*{
+  margin: 5px;
+  padding: 5px;
+  font-family: "Trebuchet MS";
+}
+
+h1{
+  color: red;
+}
+
+h3{
+  color: white;
+}
+
+img{
+  height: 100px;
+  width: 100px;
+}
 
