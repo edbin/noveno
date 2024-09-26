@@ -1,28 +1,5 @@
 Ejercicios en HTML
 
-1. Encabezado con <h1> "Login"
-2. Etiqueta <label> "User"
-3. Textbox:  <input>
-4. Salto de linea <br>
-5. Etiqueta <label> "Password"
-6. Textbox: <input>
-7. Boton <button> "Access ->"
-
-
-Ejercicio en CSS
-
-*{
-  backgroung-color: #001F3F;
-  margin: 0;
-  padding: 0;
-  font-family: "Trebuchet";
-}
-
-h1 {
-  color: #F5F5F5;
-}
-
-label {
-  color: #F5F5F5;
-}
+1. Crear un encabezado h1 "Titulo 1"
+2. Crear 
 
