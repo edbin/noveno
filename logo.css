@@ -1,1 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 
+.uno{
+    background-color:#F25022;
+    height: 80px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+.dos{   
+    position: relative;
+    top: 5px;
+    background-color: 	#00A4EF;
+    height: 80px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+.tres{
+    position: absolute;
+    top:0px;
+    left: 90px;
+    background-color: #7FBA00;
+    height: 80px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+.cuatro{
+    position: absolute;
+    top:85px;
+    background-color: #FFB900;
+    height: 80px;
+    width: 80px;
+    left: 90px;
+    border-radius: 5px;
+}
